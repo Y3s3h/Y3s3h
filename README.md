@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and Computer Networking**
 
+- 👯 I’m currently working on the project [Job-Portal](https://job-application-nzvj.onrender.com)
+
+- 🤝 I’m looking for help with [Real-Time-Chat-Application](https://chat-application-7sis.onrender.com)
+
 - 📫 How to reach me **yy6922341@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Y3s3h/Resume/raw/main/YashYadavResume.pdf](https://github.com/Y3s3h/Resume/raw/main/YashYadavResume.pdf)
