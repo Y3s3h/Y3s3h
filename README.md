@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yy6922341@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Y3s3h/Resume/raw/main/YashYadavResume.pdf](https://github.com/Y3s3h/Resume/raw/main/YashYadavResume.pdf)
+- 📄 Know about my experiences [https://github.com/Y3s3h/Resume/raw/main/YashYadavResume.pdf]([https://github.com/Y3s3h/Resume/raw/main/YashYadavResume.pdf](https://github.com/Y3s3h/Resume))
 
 - ⚡ Fun fact **I am funny😂😁**
 
