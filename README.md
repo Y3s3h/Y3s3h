@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/Y3s3h/Resume/blob/main/YashYadav.pdf](https://github.com/Y3s3h/Resume/blob/main/YashYadav.pdf)
 
-- 🤝 Here is my Portfolio [Portfolio](https://portfolio1-tau-inky-54.vercel.app/)
+- 🤝 Here is my Portfolio [Portfolio](https://yashu730.vercel.app/)
 
 - ⚡ Fun fact **I am funny😂😁**
 
